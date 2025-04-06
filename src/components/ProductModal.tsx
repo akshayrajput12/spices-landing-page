@@ -9,7 +9,6 @@ interface ProductModalProps {
     name: string;
     description: string;
     image: string;
-    price: string;
     details?: {
       origin: string;
       weight: string;

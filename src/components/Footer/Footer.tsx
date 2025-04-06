@@ -21,7 +21,7 @@ export default function Footer() {
             className="space-y-4"
           >
             <h3 className="font-serif text-2xl font-bold">Babali</h3>
-            <p className="text-sm">Crafting culinary excellence since 1950. Premium spices for the discerning chef.</p>
+            <p className="text-sm">Crafting culinary excellence Since 2015. Premium spices for the discerning chef.</p>
           </motion.div>
           
           <motion.div

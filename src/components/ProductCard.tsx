@@ -6,7 +6,6 @@ interface ProductCardProps {
   name: string;
   description: string;
   image: string;
-  price: string;
   rating?: number;
   preparationTime?: string;
   certifications?: string[];
@@ -17,7 +16,6 @@ export default function ProductCard({
   name, 
   description, 
   image, 
-  price, 
   rating = 4.5,
   preparationTime = "5-10 mins",
   certifications = ["Premium Quality", "100% Natural"],
@@ -104,12 +102,7 @@ export default function ProductCard({
           </motion.div>
         </div>
 
-        <motion.div 
-          className="flex justify-between items-center"
-          layoutId={`price-${name}`}
-        >
-          <span className="text-xl font-bold text-amber-600">{price}</span>
-        </motion.div>
+
       </motion.div>
     </motion.div>
   );
