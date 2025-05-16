@@ -44,7 +44,7 @@ export default function Story() {
               viewport={{ once: true }}
               transition={{ delay: 0.4 }}
             >
-              Founded in 2015, Babali Spices began as a small family shop in the heart of the spice markets. 
+             Since 1976 from small shop to a fully established company in 2015., Babali Spices began as a small family shop in the heart of the spice markets. 
               Three generations later, we continue our commitment to sourcing the finest spices from around the world, 
               maintaining the perfect balance between tradition and innovation.
             </motion.p>
