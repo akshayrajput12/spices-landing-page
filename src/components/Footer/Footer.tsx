@@ -95,7 +95,7 @@ export default function Footer() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6 text-sm">
             <div className="flex items-center justify-center space-x-2">
               <Phone size={16} className="text-amber-300" />
-              <span>+91 9415850615, +91 9721737990</span>
+              <span>+91 79054381320,+91 9415850615</span>
             </div>
             <motion.div 
               className="flex items-center justify-center space-x-4"
