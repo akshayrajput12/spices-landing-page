@@ -38,7 +38,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1 }}
         >
-          Crafting Culinary Excellence Since 2015
+          Since 1976 from small shop to a fully established company in 2015.
         </motion.p>
         <motion.button
           onClick={scrollToProducts}
